@@ -65,16 +65,16 @@ main p{
 
 }
 input[type=number]{
-    width: 57vh;
-    height: 7vh;
+    width: 40vw;
+    height: 11vh;
     position: absolute;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-left: -54px;
     bottom: 35px;
     border-radius: 10px;
     border: solid #FFF;
     background: #FFF;
-    box-shadow: 0px 3px 35px 0px rgba(95, 98, 102, 0.17);
+
 }
 
 input[type=kalkulator]{
@@ -108,14 +108,13 @@ input[type=kalkulator]{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    box-shadow: 0px 3px 35px 0px rgba(95, 98, 102, 0.17);
+
 }
 /*................................................block2------------............................................*/
 #block2{
     display: flex;
     flex-wrap: wrap;
     margin-top: 5vh;
-
 }
 
 .paragraph{
@@ -317,6 +316,7 @@ input[type=submit]{
     font-size: 48px;
     font-family: 'Rubik', sans-serif;
     margin-top: 120px;
+    color: #0E2F4B;;
 }
 .box3 h1 {
     color: #0E2F4B;
@@ -402,7 +402,7 @@ input[type=text]{
     width: 35vw;
     height: 78px;
     display: flex;
-    padding: 0px 30px;
+    padding: 0 30px;
     justify-content: center;
     align-items: center;
     border-radius: 10px;
